@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int main()
+int main(void)
 {
 	char letter;
 
@@ -12,5 +12,5 @@ int main()
 		letter--;
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
